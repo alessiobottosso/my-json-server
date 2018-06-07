@@ -1,11 +1,26 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Mario Rossi"
+    }
+    {
+      "id": 2,
+      "name": "Andrea Verdi"
+    }
+    {
+      "id": 3,
+      "name": "Luca Bianchi"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "engines": [ 
+    {
+      "serialnumber": "1234567",
+      "type": "Engine Type 1"
+    }
+    {
+      "serialnumber": "8901234",
+      "type": "Engine Type 2"
+    } 
+  ]
+} 
