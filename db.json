@@ -1,14 +1,14 @@
 [
-{
+  {
     "id": 1,
-    "name": "Mario Rossi",
-},
-{
+    "title": "Post 1"
+  },
+  {
     "id": 2,
-    "name": "Andrea Bianchi",
-},
-{
+    "title": "Post 2"
+  },
+  {
     "id": 3,
-    "name": "Luca Verdi",
-}
+    "title": "Post 3"
+  }
 ]
