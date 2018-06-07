@@ -1,12 +1,26 @@
 {
-    "id": 1,
-    "name": "Mario Rossi",
-}
-{
-    "id": 2,
-    "name": "Andrea Bianchi",
-}
-{
-    "id": 3,
-    "name": "Luca Verdi",
-}
+  "users": [
+    {
+      "id": 1,
+      "name": "Mario Rossi"
+    },
+    {
+      "id": 2,
+      "name": "Andrea Verdi"
+    },
+    {
+      "id": 3,
+      "name": "Luca Bianchi"
+    }
+  ],
+  "engines": [ 
+    {
+      "serialnumber": "1234567",
+      "type": "Engine Type 1"
+    },
+    {
+      "serialnumber": "8901234",
+      "type": "Engine Type 2"
+    } 
+  ]
+} 
