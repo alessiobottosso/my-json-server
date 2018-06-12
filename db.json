@@ -54,5 +54,193 @@
       "serialnumber": "1394618",
       "type": "IF 1700"
     }
-  ]
+  ],
+  "reports": [
+    {
+  "serialnumber": "1716294",
+  "engine_type":	"Engine Type 1",
+  "components" : [
+    { "7":  
+      {
+        "component_id": "7",
+        "component_name": "Testa 7R",
+        "component_description": "Testa cilindro",
+        "procedures" : [
+          {
+              "procedure_id":"1",
+              "procedure_name":"Rimontaggio",
+              "procedure_description":"Procedura di rimontaggio completa",
+              "procedure_bundle":
+                {
+                  "bundle_name":"IF_1700_Head_Assembly",
+                  "bundle_description":"description",
+                  "bundle_path":"http://test-url.it/bundle/IF-1700/Head/Assembly"
+                },
+              "activities" : [
+                {
+                  "activity_id": "1",
+                  "activity_name" : "Gruppo Camicia",
+                  "activity_description" : "Rimontaggio completo del gruppo camicia",
+                  "operations" : [
+                    {
+                      "operation_id" : "1",
+                      "operation_name" : "Montaggio o-ring su sede camicia",
+                      "operation_description" : "Inserire o-ring nell'appropriata sede sulla camicia",
+                      "operation_order" : "1",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "2",
+                      "operation_name" : "Montaggio camicia",
+                      "operation_description" : "Inserire la camicia nell'apposita sede",
+                      "operation_order" : "2",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 20,
+                      "user_id": "1"
+                    }
+                  ]
+                },
+
+                
+                {
+                  "activity_id": "2",
+                  "activity_name" : "Gruppo Biella - Pistone e controlli",
+                  "activity_description" : "Rimontaggio completo del gruppo camicia",
+                  "operations" : [
+                    {
+                      "operation_id" : "3",
+                      "operation_name" : "Montaggio cuscini di biella su cappello biella",
+                      "operation_description" : "Montaggio cuscini di biella su cappello biella...",
+                      "operation_order" : "1",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "4",
+                      "operation_name" : "Montaggio attrezzo fascia di compressione segmenti",
+                      "operation_description" : "Montaggio attrezzo fascia di compressione segmenti...",
+                      "operation_order" : "2",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "3",
+                      "operation_name" : "Infilaggio del pistone in sede",
+                      "operation_description" : "Infilaggio del pistone in sede...",
+                      "operation_order" : "3",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "4",
+                      "operation_name" : "Montaggio cappello di biella",
+                      "operation_description" : "Montaggio cappello di biella...",
+                      "operation_order" : "4",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "5",
+                      "operation_name" : "Serraggio viti cappello",
+                      "operation_description" : "Serraggio viti cappello...",
+                      "operation_order" : "5",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "6",
+                      "operation_name" : "Verifica gioco assiale biella",
+                      "operation_description" : "Verifica gioco assiale biella...",
+                      "operation_order" : "6",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "7",
+                      "operation_name" : "Verifica visiva allineamento getto olio pistone",
+                      "operation_description" : "Verifica visiva allineamento getto olio pistone...",
+                      "operation_order" : "7",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "8",
+                      "operation_name" : "Montaggio pompa olio con guarnizioni",
+                      "operation_description" : "Montaggio pompa olio con guarnizioni...",
+                      "operation_order" : "8",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "9",
+                      "operation_name" : "Montaggio coppa olio con guarnizioni e Verifica sede o-ring",
+                      "operation_description" : "Montaggio coppa olio con guarnizioni e Verifica sede o-ring...",
+                      "operation_order" : "9",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    },
+                    {
+                      "operation_id" : "10",
+                      "operation_name" : "Verifica sede o-ring piastra anteriore",
+                      "operation_description" : "Verifica sede o-ring piastra anteriore...",
+                      "operation_order" : "10",
+                      "operation_status" : "scheduled",
+                      "operation_start" : "null",
+                      "operation_end" : "null", 
+                      "operation_duration" : 15,
+                      "user_id": "1"
+                    }
+                  ]
+                }]
+          },
+
+          {
+              "procedure_id":"2",
+              "procedure_name":"Smontaggio",
+              "procedure_description":"Procedura di smontaggio completa",
+              "procedure_bundle":
+                {
+                  "bundle_name":"IF_1700_Head_Assembly",
+                  "bundle_description":"description",
+                  "bundle_path":"http://test-url.it/bundle/IF-1700/Head/Disassembly"
+                },
+              "activities" : []
+          }]
+      }
+   }]       
+}
+  ],
 } 
