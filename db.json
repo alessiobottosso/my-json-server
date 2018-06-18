@@ -72,9 +72,9 @@
               "procedure_description":"Procedura di rimontaggio completa",
               "procedure_bundle":
                 {
-                  "bundle_name":"IF_1700_Head_Assembly",
+                  "bundle_name":"[Working Root]",
                   "bundle_description":"description",
-                  "bundle_path":"http://test-url.it/bundle/IF-1700/Head/Assembly"
+                  "bundle_path":"https://www.dropbox.com/s/f7ybmd20e0edil4/workingroot?dl=1"
                 },
               "activities" : [
                 {
@@ -233,9 +233,9 @@
               "procedure_description":"Procedura di smontaggio completa",
               "procedure_bundle":
                 {
-                  "bundle_name":"IF_1700_Head_Assembly",
+                  "bundle_name":"[Working Root]",
                   "bundle_description":"description",
-                  "bundle_path":"http://test-url.it/bundle/IF-1700/Head/Disassembly"
+                  "bundle_path":"https://www.dropbox.com/s/f7ybmd20e0edil4/workingroot?dl=1"
                 },
               "activities" : []
           }]
